@@ -1,4 +1,4 @@
-import random #1
+import random #
 
 def get_user_choice():
     user_choice = input("Enter Rock, Paper, or Scissors: ")
